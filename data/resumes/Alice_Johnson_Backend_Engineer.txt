@@ -1,0 +1,22 @@
+ALICE JOHNSON
+Email: alice.j@email.com | Phone: +1-555-0104 | Location: Austin, TX
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 4 years of experience building reliable web applications. Passionate about Python, API development, and SQL database design. Excellent communicator and collaborative team player.
+
+TECHNICAL SKILLS
+Python, Flask, Django, SQL, MySQL, PostgreSQL, Git, REST APIs, HTML, CSS, Communication
+
+WORK EXPERIENCE
+Backend Developer | WebBuilders Studio | 2022 - Present
+- Created robust REST APIs using Flask and Django to power e-commerce websites.
+- Wrote complex SQL queries and optimized PostgreSQL databases.
+- Collaborated in daily standups and Agile sprint planning.
+
+Junior Developer | CodeBase Corp | 2020 - 2022
+- Maintained backend Python scripts and fixed software bugs.
+- Managed version control using Git and GitHub.
+
+EDUCATION
+Bachelor of Technology in Information Technology
+Texas A&M University (2020)

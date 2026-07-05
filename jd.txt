@@ -1,0 +1,18 @@
+Position: Senior Python Developer / Data Scientist
+
+Job Summary:
+We are looking for a Senior Python Developer / Data Scientist to join our engineering team. In this role, you will design, build, and deploy machine learning models and scalable backend applications. You will work closely with product managers and data engineers to turn data-driven insights into production-ready software.
+
+Required Skills:
+- Python (Programming Language)
+- Machine Learning (TensorFlow, PyTorch, or Scikit-Learn)
+- Pandas and NumPy (Data Analysis)
+- SQL (PostgreSQL, MySQL, or MongoDB)
+- DevOps & Cloud: AWS, Docker, Kubernetes, and Git
+- Soft Skills: Leadership, Communication, and Agile/Scrum methodologies
+
+Education:
+- Bachelor's or Master's degree in Computer Science, Data Science, Statistics, or a related field.
+
+Experience:
+- 5+ years of professional software development experience, with at least 3 years focused on building data pipelines and machine learning systems.

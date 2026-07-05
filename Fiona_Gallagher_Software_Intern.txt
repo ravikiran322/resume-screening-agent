@@ -1,0 +1,17 @@
+FIONA GALLAGHER
+Email: fiona.g@email.com | Phone: +1-555-0110 | Location: Chicago, IL
+
+PROFESSIONAL SUMMARY
+Motivated Computer Science undergraduate seeking a software engineering internship. Quick learner, passionate about Python programming, and enthusiastic about web technologies.
+
+TECHNICAL SKILLS
+Python, HTML, CSS, Git, Teamwork, Problem Solving
+
+WORK EXPERIENCE
+Software Intern | CodeCamp | 2025 - Present (Part-time)
+- Developed simple script modules in Python to automate internal data file formatting.
+- Contributed to styled landing pages using HTML and CSS.
+
+EDUCATION
+Undergraduate Student in Computer Science
+University of Illinois Chicago (Expected Graduation: 2027)
