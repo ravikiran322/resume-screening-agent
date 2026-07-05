@@ -114,3 +114,4 @@ If more development time were available, the following improvements could be add
 2. **LLM Explanations**: Integrate a lightweight, local LLM (e.g., Llama 3 via Ollama) or an API (e.g., Google Gemini API) to generate highly personalized candidate summaries, career highlights, and specific interview questions.
 3. **Contact Parsing**: Add regex extractions for Email Address and Phone Numbers, showing them in the table and allowing hiring managers to email or call directly from the dashboard.
 4. **Keyword Customization**: Provide an interface in Streamlit to customize the skill taxonomies or add custom mandatory skills that candidates must have to avoid being filtered.
+   Project Live :https://resume-screening-agent-vj74svf7birmzpx72zyhyp.streamlit.app/
